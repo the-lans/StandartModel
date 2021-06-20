@@ -54,7 +54,7 @@
 
 Входные данные и саму стандартную модель можно найти здесь: https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Standard_Model_of_Elementary_Particles_ru.svg/1024px-Standard_Model_of_Elementary_Particles_ru.svg.png" alt="img" style="zoom:80%;" />
+<img src="./images/sm.png" alt="img" style="zoom:80%;" />
 
 Значения массы и погрешность её измерения из файла *Elementary.csv* не брались из этой таблицы, а искались в других источниках и уточнялись.
 
